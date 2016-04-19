@@ -22,6 +22,15 @@ My result of findings: I = -139/6 + 34*log(2), I = 0.400338097411
 
 ## Task 2 -- Predator-prey model
 
+https://github.com/0904694/UECM3033_assign3/blob/master/Predator%20vs%20Prey%202.png
+
+https://github.com/0904694/UECM3033_assign3/blob/master/Predator%20vs%20Prey.png
+
+https://github.com/0904694/UECM3033_assign3/blob/master/Prey-Predator%20vs%20Year%202.png
+
+https://github.com/0904694/UECM3033_assign3/blob/master/Prey-Predator%20vs%20Year.png
+
+
 The given value is stored into a, b and y.
 
 We use linspace function is used to plot a line graph from year 0 to year 5. 
